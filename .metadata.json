@@ -1,0 +1,10 @@
+[
+  {
+    "package": "genero",
+    "oncran": true
+  },
+  {
+    "package": "shinypanels",
+    "oncran": true
+  }
+]

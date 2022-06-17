@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "genero"]
+	path = genero
+	url = https://github.com/datasketch/genero
+	shallow = true
+	registered = true
+[submodule "shinypanels"]
+	path = shinypanels
+	url = https://github.com/datasketch/shinypanels
+	shallow = true
+	registered = true
